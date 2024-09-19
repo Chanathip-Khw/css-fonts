@@ -1,1 +1,6 @@
-/* Start coding here */
+@font-face {
+    font-family: TechupFont;
+    src: url(/ex2-web-fonts/fonts/2005_iannnnnCPU.ttf);
+}
+
+*{font-family: TechupFont;}
