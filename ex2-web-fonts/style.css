@@ -1,0 +1,8 @@
+@font-face {
+    font-family: iannnnnCPU;
+    src: url('./fonts/2005_iannnnnCPU.ttf')
+}
+
+body{
+    font-family: "iannnnnCPU";
+}
